@@ -14,6 +14,7 @@ Entre las personalizaciones realizadas, destacan:
 
 Este repositorio representa el fruto de una colaboración con Mapu Escuela, orientada a fortalecer su presencia digital de forma profesional, accesible y culturalmente significativa.
 Finalmente, el sitio web fue desplegado utilizando Netlify, lo que garantiza una experiencia de navegación rápida y confiable. 
+
 Puedes acceder a la página en el siguiente enlace:
 
 https://escuelamapu.netlify.app/
