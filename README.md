@@ -3,9 +3,13 @@ El sitio fue construido a partir de la plantilla iPortfolio, la cual fue ampliam
 El principal objetivo fue brindar a Mapu Escuela una plataforma clara, accesible y visualmente atractiva, que permita comunicar de manera efectiva su historia, misión, visión, servicios, valores y medios de contacto con la comunidad.
 
 Entre las personalizaciones realizadas, destacan:
+
 -Adaptación del archivo style.css con una paleta de colores suaves y armónicos, pensada para una lectura cómoda y coherente con la identidad cultural de la escuela.
+
 -Incorporación de nuevas clases CSS para títulos, listas sin viñetas, fondos diferenciados, galería de imágenes y otros elementos visuales clave.
+
 -Ajustes en la estructura del sitio para organizar secciones como Inicio, Quiénes Somos, Valores, Servicios, Contacto, entre otras.
+
 -Optimización de la visualización en dispositivos móviles, manteniendo un diseño limpio, moderno, con desplazamiento suave y jerarquía visual clara.
 
 Este repositorio representa el fruto de una colaboración con Mapu Escuela, orientada a fortalecer su presencia digital de forma profesional, accesible y culturalmente significativa.
